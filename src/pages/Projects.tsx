@@ -14,7 +14,7 @@ const projects = [
         id: 2,
         title: "Hotel Reception Application",
         desc: "An application for managing hotel reservations and information.",
-        image: "/images/project-resepsi.png",
+        image: "/images/project-reception.png",
         tech: ["React", "JavaScript", "Tailwind CSS"],
         githuburl: "https://github.com/user/project2",
         demourl: "https://user.github.io/project2"
